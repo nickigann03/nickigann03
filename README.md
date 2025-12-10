@@ -1,13 +1,16 @@
 # Hii, I'm Nicki 👋
 
-### 🛡️ Junior IT Security Engineer | Aspiring Security Operations Center (SOC) Analyst | Computer Science Graduate
+### 🛡️ **Junior IT Security Engineer** | **Computer Science Graduate** | **Aspiring SOC Analyst**
 
 I am a Computer Science graduate, working as a Junior IT Security Engineer with a profound interest in **cybersecurity** and a dedication to solving complex problems. My passion lies in defensive security (Blue Team), and I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 <p align="center">
-    <a href="www.linkedin.com/in/nicki-gan-wei-fern-78867223b">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+  <a href="www.linkedin.com/in/nickiganweifern" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://responsible-stomach-cdf.notion.site/Nicki-s-Blog-193b783edb3280d88c73e61c61e7c121?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -56,6 +59,18 @@ My focus is on practical, hands-on experience in defensive security, including d
 | **Threat Mitigation Scripting** | Applying scripting (e.g., Python) to automate initial containment, evidence collection, and mitigation steps. | SOC Automation Lab |
 
 ---
+## 🛡️ **Cybersecurity Foundations**
+
+*(Beginner-friendly, accurate skills instead of advanced SOC tooling)*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Identity%20%26%20Access%20Management-1D4ED8?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-B91C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vulnerability%20Scanning-9333EA?style=for-the-badge&logo=nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%20Hardening-059669?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%20Policies%20%26%20Documentation-52525B?style=for-the-badge" />
+</p>
+
 
 ## 💻 SOC Tooling Expertise
 
@@ -89,16 +104,22 @@ Experience with industry-standard security tools for monitoring, analysis, and r
 
 ---
 
-## 📝 Projects & Labs
+## 🧪 **Labs & Projects (Beginner-Friendly)**
 
-* **Detection Lab:** Hands-on environment focused on deploying security tools, generating attack data, and developing robust detection rules.
-* **SOC Automation Project:** Practical application of SOAR principles to automate the triage, enrichment, and response workflows for security alerts.
+🔹 Home Lab Setup (VirtualBox / Hyper-V) — *In Progress*  
+🔹 nmap Scanning Lab  
+🔹 Windows Event Log Analysis Exercise  
+🔹 Python Log Parsing Scripts  
+🔹 Linux Hardening Practice (SSH, permissions, fail2ban)  
+🔹 Basic ELK SIEM Setup
 
 ---
 
-## 🏆 Certifications
-
-*(Add your certifications here, e.g., using badges or a simple list)*
+## 🎓 **Certifications**
 
 <p align="center">
-    </p>
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20(Coursera)-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20(Target)-E11F26?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20SC--900%20(Target)-7DD3FC?style=for-the-badge&logo=microsoft&logoColor=black" />
+</p>
+
