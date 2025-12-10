@@ -5,7 +5,7 @@
 I am a Computer Science graduate, working as a Junior IT Security Engineer with a profound interest in **cybersecurity** and a dedication to solving complex problems. My passion lies in defensive security (Blue Team), and I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 <p align="center">
-  <a href="www.linkedin.com/in/nickiganweifern" target="_blank">
+  <a href="[www.linkedin.com/in/nickiganweifern](https://www.linkedin.com/in/nickiganweifern/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://responsible-stomach-cdf.notion.site/Nicki-s-Blog-193b783edb3280d88c73e61c61e7c121?source=copy_link" target="_blank">
