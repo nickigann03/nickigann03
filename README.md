@@ -1,6 +1,6 @@
 # Hii, I'm Nicki 👋
 
-### 🛡️ Aspiring Security Operations Center (SOC) Analyst | Computer Science Student
+### 🛡️ Junior IT Security Engineer | Aspiring Security Operations Center (SOC) Analyst | Computer Science Graduate
 
 I am a Computer Science graduate, working as a Junior IT Security Engineer with a profound interest in **cybersecurity** and a dedication to solving complex problems. My passion lies in defensive security (Blue Team), and I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
