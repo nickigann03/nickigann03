@@ -17,7 +17,7 @@ I am a Computer Science graduate, working as a Junior IT Security Engineer with 
 
 ## 🛠️ Languages & Frameworks
 
-A selection of the languages, frameworks, and tools I have worked with, pulled from your image:
+These are some of the languages, frameworks, and tools I have worked with during my university's assignments, personal projects or hackathons:
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
