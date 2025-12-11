@@ -61,8 +61,6 @@ My focus is on practical, hands-on experience in defensive security, including d
 ---
 ## 🛡️ **Cybersecurity Foundations**
 
-*(Beginner-friendly, accurate skills instead of advanced SOC tooling)*
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Identity%20%26%20Access%20Management-1D4ED8?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-B91C1C?style=for-the-badge" />
@@ -72,31 +70,29 @@ My focus is on practical, hands-on experience in defensive security, including d
 </p>
 
 
-## 💻 SOC Tooling Expertise
+### SOC Cybersecurity Tools
 
-Experience with industry-standard security tools for monitoring, analysis, and response.
-
-### 🌐 Network Security Monitoring (NSM)
+#### 🌐 Network Security Monitoring (NSM)
 <p>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </p>
 
-### 🛡️ Security Information & Event Management (SIEM)
+#### 🛡️ Security Information & Event Management (SIEM)
 <p>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </p>
 
-### 🖥️ Endpoint Detection & Response (EDR) / Forensics
+#### 🖥️ Endpoint Detection & Response (EDR) / Forensics
 <p>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </p>
 
-### 🔁 Orchestration, Automation, & Response (SOAR) / Case Management
+#### 🔁 Orchestration, Automation, & Response (SOAR) / Case Management
 <p>
     <img src="https://img.shields.io/badge/Shuffle_SOAR-000000?style=for-the-badge" /> 
     <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge" /> 
