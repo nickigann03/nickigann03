@@ -97,18 +97,6 @@ My focus is on practical, hands-on experience in defensive security, including d
     <img src="https://img.shields.io/badge/Shuffle_SOAR-000000?style=for-the-badge" /> 
     <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge" /> 
 </p>
-
----
-
-## 🧪 **Labs & Projects (Beginner-Friendly)**
-
-🔹 Home Lab Setup (VirtualBox / Hyper-V) — *In Progress*  
-🔹 nmap Scanning Lab  
-🔹 Windows Event Log Analysis Exercise  
-🔹 Python Log Parsing Scripts  
-🔹 Linux Hardening Practice (SSH, permissions, fail2ban)  
-🔹 Basic ELK SIEM Setup
-
 ---
 
 ## 🎓 **Certifications**
